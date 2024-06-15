@@ -1,0 +1,6 @@
+# Ignore object files and compiled binaries
+*.o
+*.a
+*.out
+*.so
+*.exe
